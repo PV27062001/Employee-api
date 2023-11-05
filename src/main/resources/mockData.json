@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Employee 1",
+    "department": "Department 1",
+    "dateOfBirth": "1998-10-13T08:00:00",
+    "phoneNumber": "1234567891"
+  },
+  {
+    "id": 2,
+    "name": "Employee 2",
+    "department": "Department 2",
+    "dateOfBirth": "1998-11-13T08:00:00",
+    "phoneNumber": "1234567892"
+  },
+  {
+    "id": 3,
+    "name": "Employee 3",
+    "department": "Department 3",
+    "dateOfBirth": "1998-12-13T08:00:00",
+    "phoneNumber": "1234567893"
+  },
+  {
+    "id": 4,
+    "name": "Employee 4",
+    "department": "Department 4",
+    "dateOfBirth": "1999-01-13T08:00:00",
+    "phoneNumber": "1234567894"
+  },
+  {
+    "id": 5,
+    "name": "Employee 5",
+    "department": "Department 5",
+    "dateOfBirth": "1999-02-13T08:00:00",
+    "phoneNumber": "1234567895"
+  },
+  {
+    "id": 6,
+    "name": "Employee 6",
+    "department": "Department 6",
+    "dateOfBirth": "1999-03-13T08:00:00",
+    "phoneNumber": "1234567896"
+  },
+  {
+    "id": 7,
+    "name": "Employee 7",
+    "department": "Department 7",
+    "dateOfBirth": "1999-04-13T08:00:00",
+    "phoneNumber": "1234567897"
+  },
+  {
+    "id": 8,
+    "name": "Employee 8",
+    "department": "Department 8",
+    "dateOfBirth": "1999-05-13T08:00:00",
+    "phoneNumber": "1234567898"
+  },
+  {
+    "id": 9,
+    "name": "Employee 9",
+    "department": "Department 9",
+    "dateOfBirth": "1999-06-13T08:00:00",
+    "phoneNumber": "1234567899"
+  },
+  {
+    "id": 10,
+    "name": "Employee 10",
+    "department": "Department 10",
+    "dateOfBirth": "1999-07-13T08:00:00",
+    "phoneNumber": "1234567890"
+  }
+]
